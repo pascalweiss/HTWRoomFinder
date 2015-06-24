@@ -4,12 +4,12 @@ A webapp for students, professors and teaching staff of HTW-Berlin.
 It displays all available rooms at a certain date/time. 
 It uses [simple-MVC](https://github.com/simple-mvc-framework/framework) to structure the PHP code. 
 
+![](https://github.com/pascalweiss/pics/blob/master/htw-roomfinder.png?raw=true)
+
 Requirements
 ============
 To make it work you need to crawl the www.htw-berlin.de and store it to a postgreSQl database.
 This can be done with the [LSFEventScraper](https://github.com/pascalweiss/LSFEventScraper)
-
-![](https://github.com/pascalweiss/pics/blob/master/htw-roomfinder.png?raw=true)
 
 Configuration
 =============
