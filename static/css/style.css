@@ -1,0 +1,55 @@
+
+body {
+    padding-top: 50px;
+}
+
+.starter-template {
+    padding: 40px 15px;
+    text-align: center;
+}
+
+.search_button {
+    width: 221px;
+    background-color: rgba(23, 199, 70, 0.63);
+}
+
+.menu_elem {
+    width: 226px;
+    margin-bottom: 5px;
+}
+
+.dropdown_elem {
+    width: 226px;
+}
+
+#tresk_dropdown {
+    display: none;
+}
+
+#datetimepicker {
+    width: 226px;
+}
+
+.spinner
+{
+    display: block;
+    width: 30px;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+th {
+    text-align: center;
+}
+
+#result {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    max-width: 400px;
+}
+
+
+
